@@ -7,3 +7,5 @@ https://blog.thewatertower.org/2019/01/14/puppet-apply-1-introduction-to-driving
 
 
 Combine sources to create a puppet trail guide, and a decent development env. Might use stuff from pupperware it will complicate things. Other stuff to consider is dependencies with r10k.
+
+wise word from gary http://garylarizza.com/blog/2014/02/17/puppet-workflow-part-1/
